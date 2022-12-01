@@ -9,7 +9,8 @@ html .dark,
 .dark .footer,
 .dark .pagination__btn {
 
-  background: #2e3238;
+  // background: #2e3238;
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, #030303 7.6%, rgba(0, 0, 0, 0.88) 46.15%, #000000 100%);;
   color: var(--white-color);
 
   .menu__btn {
